@@ -62,7 +62,7 @@ the aesthetics and the user experience of your components.
 -   You have to use a Postgres database for storing the vehicle information. You can create a free account on any
     Postgres cloud provider like Supabase and use that.
 -   We would prefer you write the backend in Python, but if you are not familiar with Python at all, you can write it in
-    TypeScript as well - Node or Bun.
+    TypeScript - Node or Bun.
 
 # Deadline
 
