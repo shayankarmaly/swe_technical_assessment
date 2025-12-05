@@ -1,0 +1,65 @@
+# Documentation Files (Generated for reference, not for PR)
+DESIGN_AND_SCALING.md
+DEMO_VIDEO_SCRIPT.md
+IMPLEMENTATION_SUMMARY.md
+QUICK_START.md
+DEPLOYMENT_CHECKLIST.md
+PROJECT_SUMMARY.md
+TESTING_GUIDE.md
+SETUP.md
+PR_CHECKLIST.md
+
+# Keep only essential documentation
+# README.md - Keep (original requirements)
+# INSTRUCTIONS.md - Keep (required for submission)
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# Backend specific
+backend/api/.env
+backend/api/test.db
+backend/api/test.db-*
+*.db
+*.sqlite
+*.sqlite3
+
+# Alembic
+backend/api/migrations/__pycache__/
+backend/api/migrations/versions/__pycache__/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs
+*.log
+logs/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Temporary files
+*.tmp
+*.bak
+*.cache
+
+# Scripts (helper scripts not needed in PR)
+start-dev.sh
+start-dev.bat
+
