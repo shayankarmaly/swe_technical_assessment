@@ -346,12 +346,3 @@ For production deployment, consider:
 - User authentication and roles
 
 ---
-
-## 📧 Contact
-
-For questions or issues, please create an issue in the repository.
-
----
-
-**Built with ❤️ for Tummula Motors**
-
