@@ -347,11 +347,4 @@ For production deployment, consider:
 
 ---
 
-## 📧 Contact
-
-For questions or issues, please create an issue in the repository.
-
----
-
-**Built with ❤️ for Tummula Motors**
 
