@@ -345,4 +345,5 @@ For production deployment, consider:
 - Vehicle comparison feature
 - User authentication and roles
 
----
+
+https://github.com/user-attachments/assets/98d2030f-f269-4f6e-800e-74ec976a0187
